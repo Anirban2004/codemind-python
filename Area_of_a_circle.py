@@ -1,3 +1,3 @@
-x=int(input())
-c=3.14*x*x;
-print("%.2f"%c)
+r=int(input())
+pi=3.14*r*r
+print("{:.2f}".format(pi))
